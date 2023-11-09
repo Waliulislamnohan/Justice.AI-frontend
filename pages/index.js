@@ -25,11 +25,12 @@ export default function Home() {
 					<div className={styles.historyBox}></div>
 					<div className={styles.historyBox}></div>
 					<div className={styles.historyBox}></div>
+					<div className={styles.historyBox}></div>
 				</div>
 
 				<div className={styles.chatbox}>
 					<div>
-					<input className={styles.chat} type="text" placeholder='Where To?' />
+					<input className={styles.chat} type="text" placeholder='Share your problem' />
 					</div>
 					<div className={styles.chatSpace}> 
 
