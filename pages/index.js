@@ -33,7 +33,7 @@ export default function Home() {
 					<input className={styles.chat} type="text" placeholder='Share your problem' />
 					</div>
 					<div className={styles.chatSpace}> 
-
+							<div></div>
 					</div>
 				</div>
 
